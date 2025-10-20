@@ -67,6 +67,5 @@ Potential extensions:
 
 ## Acknowledgments
 
-* RNDr. Pavel Kůs – thesis supervisor
 * Original research papers and tutorials on PINNs (see references above)
 * Open source Python frameworks (PyTorch)
